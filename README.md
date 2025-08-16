@@ -65,7 +65,7 @@ virtual-paint-mediapipe/
 ---
 
 ## 🧠 Tech Stack
-- Python 3.x
+- Python 3.11.5
 - OpenCV
 - Mediapipe
 - NumPy
