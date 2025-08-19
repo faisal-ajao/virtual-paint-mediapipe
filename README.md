@@ -18,7 +18,7 @@ It allows users to draw in the air with hand gestures, change brush colors, and 
 
 ```bash
 # Clone the repository
-git clone https://github.com/AjaoFaisal/virtual-paint-mediapipe.git
+git clone https://github.com/faisal-ajao/virtual-paint-mediapipe.git
 cd virtual-paint-mediapipe
 
 # Create a virtual environment (recommended)
