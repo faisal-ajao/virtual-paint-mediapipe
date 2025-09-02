@@ -1,11 +1,11 @@
-# 🎨 AI Virtual Paint with Mediapipe
+# AI Virtual Paint with Mediapipe
 
 This project is an **AI Virtual Paint App** built using **Python, OpenCV, and Mediapipe**.  
 It allows users to draw in the air with hand gestures, change brush colors, and erase drawings — all using a webcam.
 
 ---
 
-## 🚀 Features
+## Features
 - Real-time hand tracking with Mediapipe.
 - Virtual brush with adjustable size.
 - Eraser tool for corrections.
@@ -14,7 +14,7 @@ It allows users to draw in the air with hand gestures, change brush colors, and 
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 # Clone the repository
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+## Usage
 
 Run the app:
 ```
@@ -47,12 +47,12 @@ python main.py
 
 ---
 
-## 📊 Demo (YouTube)
+## Demo (YouTube)
 [![Watch the demo](https://img.youtube.com/vi/LrVoDBY68iU/hqdefault.jpg)](https://youtu.be/LrVoDBY68iU?feature=shared)
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 virtual-paint-mediapipe/
 ├── paint_templates/        # Toolbar images
@@ -64,7 +64,7 @@ virtual-paint-mediapipe/
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 - Python 3.11.5
 - OpenCV
 - Mediapipe
@@ -72,5 +72,5 @@ virtual-paint-mediapipe/
 
 ---
 
-## 📜 License
+## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
